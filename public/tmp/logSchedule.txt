@@ -1,0 +1,15 @@
+20:16  Television Set On
+20:17  Television Set On
+20:17  Testing Off
+20:19  Television Set On
+20:19  Testing Off
+2014-12-6 20:21  Television Set On
+2014-12-6 20:21  Testing Off
+2014-12-6 20:23  Television Set On
+2014-12-6 20:23  Testing Off
+2014-12-6 20:33  Television Set On
+2014-12-6 20:33  Testing Off
+2014-12-6 20:35  Television Set On
+2014-12-6 20:35  Testing Off
+2014-12-6 20:37  Television Set On
+2014-12-6 20:37  Testing Off
